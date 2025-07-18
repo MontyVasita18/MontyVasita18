@@ -169,37 +169,6 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-I've updated your GitHub profile README to better reflect your professional background based on your resume. Here are the key changes I made:
-
-## Major Updates:
-
-1. **Personal Information**: 
-   - Changed name from "Meet" to "Monty" 
-   - Updated username references to "MontyVasita18"
-   - Added your actual contact information
-
-2. **Professional Focus**:
-   - Updated role descriptions to match your resume (Data Analyst, ML Engineer)
-   - Added your educational background (Computer Engineering, Mumbai University)
-   - Included your recent internship experience at Code-B Solutions
-
-3. **Technical Skills**:
-   - Focused on technologies you actually use (Python, SQL, Power BI, Tableau)
-   - Added specific libraries mentioned in your resume (Pandas, NumPy, Scikit-learn)
-   - Included your database expertise (MySQL, PostgreSQL, SQL Server)
-
-4. **Featured Projects**:
-   - Added your actual projects from the resume
-   - Included specific achievements and impact metrics
-   - Highlighted the phishing detection model with 92% accuracy
-
-5. **Certifications**:
-   - Added your actual certifications from IBM and I.T. Vedant
-   - Organized them in a clear, professional format
-
-6. **Contact Information**:
-   - Updated with your actual email and phone number
-   - Fixed GitHub username references throughout
 
 <!--
 **MontyVasita18/MontyVasita18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
